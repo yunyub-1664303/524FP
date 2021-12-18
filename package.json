@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.20.0",
+    "v-textfield": "^0.1.4",
+    "v-vbtn": "^1.0.0",
     "vue": "^2.6.14"
   },
   "devDependencies": {
